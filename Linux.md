@@ -68,7 +68,7 @@ CTRL+K para apagar o que estiver à direita do cursor.
 
 ***
 # Comandos básicos
-`ip addr show`= mostrar interfaces de rede, ip <b>
+<b> `ip addr show`= mostrar interfaces de rede, ip <b>
 `reboot` = comando para reiniciar o sistema operacional;
 `clear` = limpa o terminal;
 `su -`= Comando para mudar de usuário;
