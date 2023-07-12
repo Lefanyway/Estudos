@@ -1,7 +1,7 @@
 
 # Guia completo do Linux
 
-> Esse repositório tem como objetivo guardar todas as minhas anotações com base nos meus estudos de Linux;</p>
+> Esse repositório tem como objetivo guardar todas as minhas anotações com base nos meus estudos de Linux, Se estiver algo errado me perdoe ;) </p>
 
 ***
 
