@@ -77,6 +77,12 @@
 # Comandos básicos
 
 <p>`ip addr show`= mostrar interfaces de rede, ip <b></p>
+ 
+<p>`ping` = envia pacotes até um ip para ver se há conexão entre eles<b></p>
+
+<p>`traceroute` = mostra a rota de pacotes enviado desde o seu ip até o destino<b></p>
+
+<p>`netcat/nc` = ele possibilita se conectar em uma porta aberta<b></p>
 
 <p>`reboot` = comando para reiniciar o sistema operacional;<b></p>
 
