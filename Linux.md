@@ -78,6 +78,8 @@
 
 <p>`ip addr show`= mostrar interfaces de rede, ip <b></p>
  
+<p>`nslookup`= fazer consultas no DNS <b></p>
+ 
 <p>`ping` = envia pacotes até um ip para ver se há conexão entre eles<b></p>
 
 <p>`traceroute` = mostra a rota de pacotes enviado desde o seu ip até o destino<b></p>
