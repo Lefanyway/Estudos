@@ -391,3 +391,6 @@ exit code 2 = programa indicou erros de sintaxe.
 
 `whoami` = mostra quem é você no terminal
 
+`service DNS status` = mostra status do serviço
+
+`systemctl status DNS` = outra opção para mostrar status do serviço
