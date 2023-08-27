@@ -395,4 +395,4 @@ exit code 2 = programa indicou erros de sintaxe.
 
 `systemctl status DNS` = outra opção para mostrar status do serviço
 
-`sudo service --status-all` = mostra todos os serviços
+`sudo service --status-all` = mostra status de todos os serviços
